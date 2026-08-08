@@ -1,6 +1,6 @@
 ---
 name: character-continuity
-description: Design or review an academy exercise for keeping one character consistent across generated scenes and shots. Use when a lesson or case study focuses on identity wardrobe proportions camera or scene continuity. Do not use for unrelated single-image generation or general site development.
+description: Design or review an academy exercise for keeping one character consistent across generated scenes and shots. Use when a lesson or case study focuses on identity wardrobe proportions camera or scene continuity. Do not use when the request is unrelated single-image generation or general site development.
 ---
 
 # Character continuity
