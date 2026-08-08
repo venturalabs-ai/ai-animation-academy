@@ -1,6 +1,6 @@
 ---
 name: quality-gate
-description: Validate AI Animation Academy changes for typed Next.js code reproducible content current claims and documented limitations. Use before merging a lesson workflow case study or UI change that alters academy behavior. Do not use as a substitute for evaluating external model output quality itself.
+description: Validate AI Animation Academy changes for typed Next.js code reproducible content current claims and documented limitations. Use when reviewing a lesson workflow case study or UI change before merge. Do not use when the task is only to evaluate external model output quality outside the academy repository.
 ---
 
 # Quality gate
