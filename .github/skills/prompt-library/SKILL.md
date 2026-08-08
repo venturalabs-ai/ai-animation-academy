@@ -1,6 +1,6 @@
 ---
 name: prompt-library
-description: Add a reusable animation prompt template to the academy only after its variables and platform assumptions are understood. Use when a validated prompt pattern should become teaching material. Do not use for one-off prompts that have not been tested or for unsupported platform syntax.
+description: Add a reusable animation prompt template to the academy only after its variables and platform assumptions are understood. Use when a validated prompt pattern should become teaching material. Do not use when the prompt is one-off untested or depends on unsupported platform syntax.
 ---
 
 # Prompt library
